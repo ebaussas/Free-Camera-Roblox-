@@ -1,4 +1,4 @@
-# Free-Camera-Roblox-local Players = game:GetService("Players")
+game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local PopperClient = LocalPlayer:WaitForChild("PlayerScripts").PlayerModule.CameraModule.ZoomController.Popper
 
